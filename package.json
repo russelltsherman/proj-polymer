@@ -3,12 +3,17 @@
   "version": "0.0.1",
   "description": "## Initialize your project from a template",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "bower": "1.8.0",
-    "eslint": "4.1.0",
-    "eslint-config-google": "0.8.0",
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "prettier": "^1.15.3",
     "polymer-cli": "1.2.0"
   },
   "scripts": {
